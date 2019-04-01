@@ -1,2 +1,2 @@
 # Hello_wolrd
-the repository for leaning
+The repository for learning
